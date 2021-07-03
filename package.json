@@ -1,0 +1,23 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himel150750/git-test.git"
+  },
+  "author": "Himel150750",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Himel150750/git-test/issues"
+  },
+  "homepage": "https://github.com/Himel150750/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
